@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 Age 21, Male, Half-Japanese, Half-Filipino. Would like to be instructor\teacher when I get old.
 \
 I graduated at [Mapúa University](https://www.mapua.edu.ph/), December 2019. Had an intern experince in **ThreatHunting** and **System Administer**. \
+\
 Even I had knowledge in programming **(C, C#, matlab)**, and networking **(CISCO)** I always wanted to pursue security side. I also love to teach and I was a voluteer at Center for Student Advising back when I was undergrad.\
 \
 Since I wasn't blessed to learn security related topic back when I was undergrad, I self taught myself using **udemy**, and **CTF** Challenge online. \
