@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/yaboknuj)
 - 🤔 I’m looking for help with Penetration Career
 - 💬 I'm currently in Japan
-- ⚡ Fun fact: 
+- ⚡ Fun fact: ...
+
 Age 21, Male, Half-Japanese, Half-Filipino. Would like to be instructor\teacher when I get old.
 \
 I graduated at [Mapúa University](https://www.mapua.edu.ph/), December 2019. Had an intern experince in **ThreatHunting** and **System Administer**. \
