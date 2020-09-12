@@ -28,4 +28,7 @@ Even I had knowledge in programming **(C, C#, matlab)**, and networking **(CISCO
 I always wanted to pursue security side. Since I wasn't blessed to learn security related topic back when I was undergrad, I self taught myself using **udemy**, and **CTF** Challenge online. \
 \
 I'm trying to master tools found in **Kali**, **Python** Language, and someday **i3wm** \
-While I'm being enthusiast at Cybersecurity, I would like to work the related field.... soon (I hope)...
+While I'm being enthusiast at Cybersecurity, I would like to work the related field.... soon \
+\
+\
+(I hope)
