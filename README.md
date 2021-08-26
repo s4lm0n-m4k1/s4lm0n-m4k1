@@ -5,9 +5,9 @@ Since you've care enought to look at this page, please msg me on twitter.
   <img ahref="https://github.com/s4lm0n-m4k1?tab=repositories" src="https://github.com/s4lm0n-m4k1/s4lm0n-m4k1/blob/master/Resource/readme.png">
 </p>
 <p align="center">
-  I would liked to share my public profile but for privacy reason, here is my
-  <a href="https://twitter.com/yaboknuj">Twitter </a> 
-  for now.
+  If you're interested to know me better, here is my
+  <a href="https://www.linkedin.com/in/junie-kobayashi/">LinkedIn </a> 
+  profile.
 </p>
 
 ### Hello human 👋
