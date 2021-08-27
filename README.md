@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 I'm currently in Japan
 - ⚡ Fun fact: ...
 
-Age 21, Male, Half-Japanese, Half-Filipino. Would like to be instructor\teacher when I get old.
+Age 23, Male, Half-Japanese, Half-Filipino. Would like to be instructor\teacher when I get old.
 \
 I graduated at [Mapúa University](https://www.mapua.edu.ph/), December 2019. Had an intern experince in **ThreatHunting** and **System Administrator**. \
 \
